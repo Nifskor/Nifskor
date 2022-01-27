@@ -4,7 +4,7 @@
 
 <div align="left">
     
-## 📮 I have....
+### 📮 I have....
 <a href="http://ingstec.co.kr"> <img src="https://user-images.githubusercontent.com/92977647/151411167-b7a060a3-2830-4e4a-abaa-7b8e7bdc2a64.png" ></a>
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -13,7 +13,7 @@
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-### 📪 I have...
+
 
 </div>
 <!--
