@@ -29,7 +29,9 @@
  <tr>
   <td>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nifskor&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nifskor&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact)
-  </td> </tr></table>
+  </td> 
+ </tr>
+</table>
 <!--
 **Nifskor/Nifskor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
