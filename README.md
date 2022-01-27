@@ -25,9 +25,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nifskor&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
- username=Nifskor&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact)
----- | ----
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nifskor&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nifskor&layout=compact)](https://github.com/Nifskor/github-readme-stats) 
 
 <details>
  
