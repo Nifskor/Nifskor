@@ -2,7 +2,7 @@
 
 ## <div align=center> I have...   
   <a href="http://ingstec.co.kr">
-<div align=center> <img src="https://user-images.githubusercontent.com/92977647/151411167-b7a060a3-2830-4e4a-abaa-7b8e7bdc2a64.png" ></a></div></div>
+<div align=center> <img src="https://user-images.githubusercontent.com/92977647/151411167-b7a060a3-2830-4e4a-abaa-7b8e7bdc2a64.png" ></a>
  
  ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
@@ -12,7 +12,7 @@
     
 
 
-
+    </div>
 <!--
 **Nifskor/Nifskor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
