@@ -25,13 +25,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<table>
- <tr>
-  <td>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nifskor&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nifskor&show_icons=true&title_color=ffab73&text_color=fffecf&icon_color=ffab73&bg_color=433647&layout=compact)
-  </td> 
- </tr>
-</table>
+---- | ----
+
+<details>
+ 
 <!--
 **Nifskor/Nifskor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
