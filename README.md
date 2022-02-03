@@ -5,7 +5,7 @@
  
 ### 📮 I have....
 <a href="http://ingstec.co.kr"> <img src="https://user-images.githubusercontent.com/92977647/151411167-b7a060a3-2830-4e4a-abaa-7b8e7bdc2a64.png" ></a>
-<a href="https://velog.io/@ings"><img src="https://user-images.githubusercontent.com/92977647/152354814-00c7896a-95b5-48ef-92f1-4a06c7f18269.png" width="60"></a>
+<a href="https://velog.io/@ings"><img src="https://user-images.githubusercontent.com/92977647/152354814-00c7896a-95b5-48ef-92f1-4a06c7f18269.png" width="30"></a>
 
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
