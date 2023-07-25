@@ -29,6 +29,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nifskor&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nifskor&layout=compact)](https://github.com/Nifskor/github-readme-stats) 
 
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nifskor)
 <!-- <details> --> 
  
 <!--
